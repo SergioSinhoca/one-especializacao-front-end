@@ -42,7 +42,7 @@ Para conferir o repositório **Iniciante em programação** [clique aqui.](https
 ## Atalhos
 Links diretos para acessar os repositórios
 
-- [Front End G7 - ONE]() 
+- [Front End G7 - ONE](./%20front-end-g7-one/README.md) 
 - [React G7 - ONE]() 
 
 
